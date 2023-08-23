@@ -1,1 +1,1 @@
-# TDA417
+# TDA417 Data structures and algorithms
